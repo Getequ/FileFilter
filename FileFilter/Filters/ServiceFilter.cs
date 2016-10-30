@@ -11,7 +11,7 @@ namespace Getequ.FileFilter
             : base(serviceProvider, hierarchyCollectionProvider)
         {
             Match(@"\w+Service.cs$");
-            NotMatch(@"\w+DomainService.cs$");
+            NotMatch(@"\w+DomainService.cs$|\w+ReportService.cs$");
         }
     }
 }

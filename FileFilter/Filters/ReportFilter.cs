@@ -10,7 +10,7 @@ namespace Getequ.FileFilter
         public ReportFilterProvider(SVsServiceProvider serviceProvider, IVsHierarchyItemCollectionProvider hierarchyCollectionProvider)
             : base(serviceProvider, hierarchyCollectionProvider)
         {
-            Match(@"\w+Report.cs$|\w+PrintForm.cs$");
+            Match(@"\w+Report.cs$|\w+PrintForm.cs$|\w+ReportService.cs$");
         }
     }
 }
