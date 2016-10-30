@@ -1,0 +1,7 @@
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\\FileFilter.dll
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\\FileFilter.pkgdef
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\\extension.vsixmanifest
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\\FileFilter.pdb
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\Resources\\bars-icon.png
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\Resources\\bars.png
+C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Getequ\Фильтр файлов в Bars-проектах\1.0\Resources\\favicon.ico
